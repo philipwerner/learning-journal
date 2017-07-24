@@ -1,0 +1,2 @@
+# LJ code 201 day 10
+My arch nemisis CSS.... I enjoy CSS when it does what I want it to, however I feel like that is few and far between. The wireframe and chocolate pizza really kicked my butt. I think though I learned a lot from it. Evening though my style sheets are super sloppy in these two projects, I am getting more and more comfortable using it. I just need to keep practicing and messing around with it. I also got really good and googling things on these assignments, learned some new tricks. But damn CSS gives me a headache.
