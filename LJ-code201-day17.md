@@ -1,0 +1,2 @@
+# Day 17!!!! Project Week
+I feel like project week got off to a good start. It has been really fun making something from scratch with our own ideas. There have been a few things I have had to spend some time researching and testing, like the blurring and shaking of images through JS and how to sort an array properly to create a high score table. It felt really good figuring those things out and seeing the results on our page. It was also really exciting buying a domain name, not sure why but it felt great and I can't wait to launch it. This has been a pretty fantastic month!
