@@ -1,0 +1,3 @@
+# LJ 301 day 10
+
+This was a week of highs and lows. It has been really fun learning and working with SQL and ajax, even though they both can be a tad bit frustrating to say the least, but I am looking forward to learning more about them. And then there is the annoying beauty of functional programming.... I thought I had a good idea of how to use it, but I was sadly mistaken. I am really kind of taken back by something that when coded out looks so nice and simple, but it is a huge pain in the butt to get it all under control. I think I just need to spend some more time working with it outside of just in class.
